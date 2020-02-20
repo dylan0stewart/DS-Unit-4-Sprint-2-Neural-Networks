@@ -1,0 +1,26 @@
+{
+    "root": "C:/Users/dylan/Desktop/Lambda/MachineLearning/DS-Unit-4-Sprint-2-Neural-Networks",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/dylan0stewart/DS-Unit-4-Sprint-2-Neural-Networks.git",
+        "commit": "d9438cbda075021e3589b1ef2843855959e3cb9b"
+    },
+    "email": "dylan0stewart@yahoo.com",
+    "startedAt": "2020-02-20T19:03:24.240316",
+    "host": "LAPTOP-6PMHPENN",
+    "username": "dylan",
+    "executable": "C:\\Users\\dylan\\Anaconda3\\python.exe",
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.7.4",
+    "cpu_count": 8,
+    "args": [
+        "-f",
+        "C:\\Users\\dylan\\AppData\\Roaming\\jupyter\\runtime\\kernel-ae137b88-b773-4124-922e-e0483a1785ec.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "vivid-meadow-130",
+    "project": "boston",
+    "heartbeatAt": "2020-02-20T22:13:18.648242"
+}
